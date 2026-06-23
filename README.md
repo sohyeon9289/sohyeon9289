@@ -3,7 +3,7 @@
 <div align="center">
 
 ### 💻 AI Full-Stack Developer
-> Passionate about building intelligent services with LLM & modern web technologies
+> Passionate about building intelligent services with modern web technologies
 
 <br/>
 
