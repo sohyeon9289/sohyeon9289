@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Sohyeon&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Millie&fontAlign=50&fontAlignY=40&color=gradient)
 
 
 
