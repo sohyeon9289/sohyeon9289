@@ -68,5 +68,5 @@
 ## 📬 Contacts
 
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:toxmdnlxl@naver.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:toxmdnlxl@gmail.com)
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)
