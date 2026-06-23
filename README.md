@@ -66,27 +66,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
-
-| 프로젝트 | 설명 | 기술 스택 |
-|---|---|---|
-| [Project Name](https://github.com/) | 한 줄 설명 | `Python` `LangChain` `React` |
-| [Project Name](https://github.com/) | 한 줄 설명 | `Node.js` `AWS` `Docker` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Contacts
+
+[![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:toxmdnlxl@naver.com)
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
